@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - PlayerSpawnPoint
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - PickupItems
+  - PlayerInteractTrigger
+  - Environment
+  - NoCollisionWithObjects
+  - Player
+  - WallSlideCollider
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3377395557
+    locked: 0
+  - name: SolidEnvironmentTile
+    uniqueID: 1240418275
+    locked: 0
+  - name: TileObject
+    uniqueID: 584712891
+    locked: 0
+  - name: PlayerDetail
+    uniqueID: 55615643
+    locked: 0
+  - name: Player
+    uniqueID: 1678272679
+    locked: 0
+  - name: TransparentEnvironmentTile
+    uniqueID: 1664223301
+    locked: 0
+  - name: PickupItem
+    uniqueID: 2168588129
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0

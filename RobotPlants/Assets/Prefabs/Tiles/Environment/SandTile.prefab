@@ -1,0 +1,79 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &3413417483621230734
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -4524944961893855282, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 3814556205314979561, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: -4524944961893855282, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_SortingLayer
+      value: -6
+      objectReference: {fileID: 0}
+    - target: {fileID: -4524944961893855282, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_SortingLayerID
+      value: 1240418275
+      objectReference: {fileID: 0}
+    - target: {fileID: 2635648441477371587, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_AssetId
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 3618465693225663506, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_Name
+      value: SandTile
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594124632162522357, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594124632162522357, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594124632162522357, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 4594124632162522357, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: coloredSprites.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: uncoloredSprites.Array.size
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: coloredSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 3814556205314979561, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: coloredSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 2487154744401165594, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: coloredSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: -6916574047547841821, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: uncoloredSprites.Array.data[0]
+      value: 
+      objectReference: {fileID: 1137342838159057803, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: uncoloredSprites.Array.data[1]
+      value: 
+      objectReference: {fileID: 4208680458042224530, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    - target: {fileID: 7957798198642808953, guid: e74a303d4a171994d977211e60ae451f, type: 3}
+      propertyPath: uncoloredSprites.Array.data[2]
+      value: 
+      objectReference: {fileID: 2920868102206731445, guid: 312e663f30783414692bc53a7a13a1fe, type: 3}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e74a303d4a171994d977211e60ae451f, type: 3}
